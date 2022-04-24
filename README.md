@@ -6,11 +6,12 @@ Players will guess Minecraft words
 
 There are several modes in this game just like there are different game modes in Minecraft:
 
-Survival: This is the normal version of Wordle
+- Survival: This is the normal version of Wordle
 
-Creative: Players will be given unlimited tries to guess the word
+- Creative: Players will be given unlimited tries to guess the word
 
-Hardcore: After selecting "Survival", the player will be asked if they wanted to play hardcore mode.
+
+- Hardcore: After selecting "Survival", the player will be asked if they wanted to play hardcore mode.
   
   The player will only be allowed a single try. This is like how in hardcore Minecraft, players will 
   
