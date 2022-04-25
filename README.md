@@ -1,4 +1,4 @@
-# CIS 1951: Minecraftle!
+# CIS 1051: Minecraftle!
 
 This is a Minecraft themed Wordle!
 
